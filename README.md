@@ -20,5 +20,5 @@
 ---
 ## 📧 Contact
 
-Feel free to reach out to me via [email@example.com](mailto:venkatrentala2001@gmail.com).
+Feel free to reach out to me via [venkatrentala2001@gmail.com]
 ⭐️ From [Naga Sri Venkat R](https://github.com/NagaSriVenkatR)
