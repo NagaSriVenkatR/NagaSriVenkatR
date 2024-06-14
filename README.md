@@ -3,9 +3,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I graduated with a degree in Bachelor of Technology from Srinivasa Ramanujan Institute Of Technology.
-- 💼 Currently working at Ebrain Technologies as a FrontEnd Developer.
--  🌱 I’m currently learning Java Script.
+- I'm a passionate front-end developer with a knack for creating engaging and responsive user interfaces. I recently graduated with a Bachelor of Technology (B.Tech) and am eager to apply my skills and knowledge in the professional world. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
+
+- 🎓 Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering
+- 💼 Current Position: Front-End Developer at Ebrain Technologies
+- 🌱 I’m currently learning Java Script
 
 ## 🛠 Skills
 
@@ -16,5 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/)
 
 ---
+## 📧 Contact
 
+Feel free to reach out to me via [email@example.com](mailto:venkatrentala2001@gmail.com).
 ⭐️ From [Naga Sri Venkat R](https://github.com/NagaSriVenkatR)
