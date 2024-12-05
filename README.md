@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Naga Sri Venkat Rentala.
+## Hi there 👋, I'm **Naga Sri Venkat Rentala**.
 
 
 ## 🚀 About Me
@@ -8,7 +8,14 @@
 - 🎓 Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering
 - 💼 Current Position: Front-End Developer at Ebrain Technologies
 - 🌱 I’m currently learning Redux Saga
-
+## 🛠️ Team Projects
+- **Quick Receipt**: Collaborated with a team of developers to build a web-based solution for generating, managing, and sharing receipts digitally.
+  - **Role**: Front-End Developer
+  - **Team Size**: 4 members
+  - **Key Contributions**:
+    - Designed and implemented responsive UI using React.js and Bootstrap.
+    - Integrated REST APIs to display and manage receipt data.
+    - Ensured cross-browser compatibility and optimized performance.
 ## 🛠 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -24,3 +31,5 @@
 
 Feel free to reach out to me via [venkatrentala2001@gmail.com]
 ⭐️ From [Naga Sri Venkat R](https://github.com/NagaSriVenkatR)
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
