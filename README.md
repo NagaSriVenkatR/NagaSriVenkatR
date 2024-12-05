@@ -7,7 +7,7 @@
 
 - 🎓 Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering
 - 💼 Current Position: Front-End Developer at Ebrain Technologies
-- 🌱 I’m currently learning Redux Saga
+- 🌱 I’m currently  working on **Quick Receipt** Project
 ## 🛠️ Team Projects
 - **Quick Receipt**: Collaborated with a team of developers to build a web-based solution for generating, managing, and sharing receipts digitally.
   - **Role**: Front-End Developer
