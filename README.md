@@ -5,10 +5,10 @@
 
 - I'm a passionate front-end developer with a knack for creating engaging and responsive user interfaces. I recently graduated with a Bachelor of Technology (B.Tech) and am eager to apply my skills and knowledge in the professional world. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
 
-- 🎓 Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering
-- 💼 Current Position: Front-End Developer at Ebrain Technologies
+- 🎓 **Education:** Bachelor of Technology (B.Tech) in Computer Science and Engineering
+- 💼 **Current Position:** Front-End Developer at Ebrain Technologies
 - 🌱 I’m currently  working on **Quick Receipt** Project
-## 🛠️ Team Projects
+## 💻 Team Projects
 - **Quick Receipt**: Collaborated with a team of developers to build a web-based solution for generating, managing, and sharing receipts digitally.
   - **Role**: Front-End Developer
   - **Team Size**: 4 members
