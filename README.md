@@ -23,6 +23,9 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=radical)
+
 
 ## 🌐 Connect with me
 
