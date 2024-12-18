@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-764ABC?style=flat&logo=redux-saga&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NagaSriVenkatR=anuraghazra&show_icons=true)
+![NagaSriVenkatR GitHub stats](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=radical)
 
