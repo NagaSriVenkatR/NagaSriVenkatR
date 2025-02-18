@@ -31,7 +31,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)]([https://your-portfolio-link.com](https://rnsvenkat-portfollio.web.app/))  <!-- Add your actual portfolio URL here -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://rnsvenkat-portfollio.web.app/)  <!-- Your portfolio link -->
 
 ---
 ## 📧 Contact
