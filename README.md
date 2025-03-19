@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm **Naga Sri Venkat Rentala**.
-### 🚀 Check out my Portfolio: rnsvenkat-portfolio.web.app
+### 🚀 Check out my Portfolio: [rnsvenkat-portfolio.web.app](https://rnsvenkat-portfolio.web.app/)
 ## 🚀 About Me
 
 - I'm a passionate front-end developer with a knack for creating engaging and responsive user interfaces. I recently graduated with a Bachelor of Technology (B.Tech) and am eager to apply my skills and knowledge in the professional world. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
@@ -28,12 +28,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=radical)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://rnsvenkat-portfolio.web.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NagaSriVenkatR)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Venkatn17033296)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/venkat_nani_rentala/)  
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=internet-explorer&logoColor=white)](https://rnsvenkat-portfolio.web.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NagaSriVenkatR) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Venkatn17033296) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/venkat_nani_rentala/)  
+ 
 
 ---
 ## 📧 Contact
