@@ -25,9 +25,15 @@
 ## 📊 GitHub Stats
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagaSriVenkatR&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagaSriVenkatR&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR&show_icons=true&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagaSriVenkatR&bg_color=0d1117&color=ffffff&line=00e7ff&point=ffffff&area=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=tokyonight&hide=html,css)
+
 
 ## 🌐 Connect with me  
 
