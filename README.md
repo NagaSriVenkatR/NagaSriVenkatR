@@ -47,6 +47,4 @@
 
 ## 📧 Contact  
 
-📩 **Email**: venkatrentala2001@gmail.com  
-⭐️ From [Naga Sri Venkat R](https://github.com/NagaSriVenkatR)  
-![Profile views](https://komarev.com/ghpvc/?username=NagaSriVenkatR&color=blue)  
+📩 **Email**: venkatrentala2001@gmail.com  ⭐️ From [Naga Sri Venkat R](https://github.com/NagaSriVenkatR)  
