@@ -32,7 +32,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)](https://github-readme-stats.vercel.app/api?username=NagaSriVenkatR
+)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NagaSriVenkatR&theme=github-dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSriVenkatR&layout=compact&theme=github-dark&hide=html,css)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NagaSriVenkatR&theme=github-dark&hide_border=true)  
